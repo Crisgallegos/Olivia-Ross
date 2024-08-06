@@ -1,0 +1,24 @@
+body {
+    font-family: 'Raleway', sans-serif !important;
+}
+
+.bg-nav{
+    background-color: #373A3C;
+}
+#hero-section {
+    background-image: url('../img/bg-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 100vh;
+}
+.titulo{
+    font-size: 70px;
+    font-weight: 600;
+    text-align: right;
+}
+
+
+.bg-work{
+    background-color: #17A2B8;
+}
